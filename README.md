@@ -7,7 +7,7 @@ Make sure to document your **technical decisions and assumptions** you have made
 - Do not forget to add instructions on how to build and run the code.
 - Put your code on a public repository on e.g. github, gitlab for us to clone.
 - You are allowed to use as many assumptions as you like, but don't forget to explain it.
-  Please submit the pre-assessment and email to s.myint.dindinn@gmail.com within 5 calendar days.
+  Please submit the pre-assessment and email to careers@dindinn.com within 5 calendar days.
 
 ### Assignment 1
 
