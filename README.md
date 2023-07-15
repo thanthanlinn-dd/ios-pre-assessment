@@ -19,7 +19,7 @@ Try to come up with your own solution to create the design by using storyboard. 
 
 ### Assignment 2
   
-  - Implement given design (`design1.png`)
+  - Implement given design (`design1.png`) with AutoLayout
   - when the user click the icon from (`design.png`), redirect to products listing page 
   - please use rxswift and viper architecture for this assignment
   - please use https://fakestoreapi.com for retrieval of products with Alamofire
