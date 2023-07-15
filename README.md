@@ -28,4 +28,4 @@ Try to come up with your own solution to create the design by using storyboard. 
 Bonus
 
 - Write meaningful test cases only listing page using unit-test-cases.
-- Surprise Us :)
+- Thank you so much :)
